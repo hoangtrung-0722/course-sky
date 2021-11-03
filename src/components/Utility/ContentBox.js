@@ -1,6 +1,4 @@
 import { styled } from "@mui/system";
-import { Box } from "@mui/material"
-import React from "react";
 
 const ContentBox = styled('div')({
   padding: "10px",

@@ -34,7 +34,7 @@ export default function SideDrawer() {
       onKeyDown={toggleDrawer(false)}
     >
       <List>
-        {["Lớp học"].map((text, index) => (
+        {["Classes"].map((text, index) => (
           <ListItem button key={text}>
             <ListItemIcon>{getIcon(index)}</ListItemIcon>
             <ListItemText primary={text} />

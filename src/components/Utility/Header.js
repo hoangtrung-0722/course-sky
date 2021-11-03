@@ -1,6 +1,5 @@
 import React from "react";
 import { AppBar, Box, Toolbar, Typography } from "@mui/material";
-import { makeStyles } from "@mui/styles";
 import SideDrawer from "./SideDrawer";
 import AccountCircleIcon from "@mui/icons-material/AccountCircle";
 
