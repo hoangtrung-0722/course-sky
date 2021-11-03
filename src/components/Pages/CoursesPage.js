@@ -5,7 +5,6 @@ import Header from "../Utility/Header";
 import NewClassModal from "../Modal/NewClassModal";
 import axios from "axios";
 import SearchInput from "../Utility/SearchInput";
-import ContentBox from "../Utility/ContentBox";
 import SidePanel from "../Utility/SidePanel";
 
 export default function CoursesPage() {
